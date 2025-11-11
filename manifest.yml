@@ -1,11 +1,11 @@
 ---
 applications:
-- name: spring-boot-simple-demo-2-7-18
+- name: spring-boot-simple-demo-2-7-18-java-11
   path: ./target/spring-boot-simple-demo-2.7.18.jar
   # random-route: true
   buildpacks:
     - java_buildpack_offline
   env:
-    JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 1.8.0_+ }}'
+    JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ }}'
     JBP_CONFIG_SPRING_AUTO_RECONFIGURATION: '{enabled: false}'
 
