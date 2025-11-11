@@ -1,7 +1,7 @@
 ---
 applications:
-- name: spring-boot-simple-demo-2-0-9
-  path: ./target/spring-boot-simple-demo-2.0.9.jar
+- name: spring-boot-simple-demo-2-1-18
+  path: ./target/spring-boot-simple-demo-2.1.18.jar
   # random-route: true
   buildpacks:
     - java_buildpack_offline
