@@ -19,6 +19,7 @@ cf push
 ```
 
 ## Versions
+- [Spring Boot Simple Demo 3.5.7](https://github.com/nevenc/spring-boot-simple-demo/releases/tag/3.5.8)
 - [Spring Boot Simple Demo 3.5.7](https://github.com/nevenc/spring-boot-simple-demo/releases/tag/3.5.7)
 - [Spring Boot Simple Demo 3.4.11](https://github.com/nevenc/spring-boot-simple-demo/releases/tag/3.4.11)
 - [Spring Boot Simple Demo 3.3.15.2](https://github.com/nevenc/spring-boot-simple-demo/releases/tag/3.3.15.2)
